@@ -1,0 +1,436 @@
+text,interpretation,label,keyword,type
+the absolute majority was significant,the absolute majority was significant,0,absolute,ecf
+the exam result was absolute,the exam result was absolute,0,absolute,ecf
+a complete list is available,a complete list is available,0,complete,ecf
+the large home was complete,the large home was complete,0,complete,ecf
+the entire sum was large,the entire sum was large,0,entire,ecf
+the entire statement was literal,the entire statement was literal,0,entire,ecf
+the fresh water was pure,the fresh water was pure,0,pure,ecf
+the desirable breed was pure,the desirable breed was pure,0,pure,ecf
+the pure substance was valuable,the pure substance was valuable,0,pure,ecf
+the whole bucket was full,the whole bucket was full,0,whole,ecf
+the whole meal was enjoyable,the whole meal was enjoyable,0,whole,ecf
+a dry ocean is impossible,a dry ocean is impossible,0,impossible,ecf
+the impossible reality is dreamful,the impossible reality is dreamful,0,impossible,ecf
+a mathematical constant is invariable,a mathematical constant is invariable,0,invariable,ecf
+the code was never cracked,the code was never cracked,0,never,ecf
+the sky is never falling,the sky is never falling,0,never,ecf
+the pig will never fly,the pig will never fly,0,never,ecf
+the dead will never return,the dead will never return,0,never,ecf
+no action should be required,no action should be required,0,no,ecf
+no harm should be experienced,no harm should be experienced,0,no,ecf
+no further comments in discussion,no further comments in discussion,0,no,ecf
+the point of no return,the point of no return,0,no,ecf
+the case has no merit,the case has no merit,0,no,ecf
+the principle of no guarantees,the principle of no guarantees,0,no,ecf
+the golden age is no more,the golden age is no more,0,no,ecf
+a life sentence with no parole,a life sentence with no parole,0,no,ecf
+the right to pay no tax,the right to pay no tax,0,no,ecf
+the decision to press no further,the decision to press no further,0,no,ecf
+the post originally had no subject,the post originally had no subject,0,no,ecf
+the right to have no faith,the right to have no faith,0,no,ecf
+the blind can see no one,the blind can see no one,0,no,ecf
+no one in the group felt angry,no one in the group felt angry,0,no,ecf
+the truth lies to nobody,the truth lies to nobody,0,nobody,ecf
+nobody on the street is home,nobody on the street is home,0,nobody,ecf
+nobody in the group looked interested,nobody in the group looked interested,0,nobody,ecf
+the machined edge was flawless,the machined edge was flawless,0,flawless,ecf
+the flawless product was expensive,the flawless product was expensive,0,flawless,ecf
+the blue line was perfect,the blue line was perfect,0,perfect,ecf
+the perfect score was fraudulent,the perfect score was fraudulent,0,perfect,ecf
+the endless combinations are daunting,the endless combinations are daunting,0,endless,ecf
+an eternal youth is fanciful,an eternal youth is fanciful,0,eternal,ecf
+the eternal flame was impressive,the eternal flame was impressive,0,eternal,ecf
+an infinite concept is perplexing,an infinite concept is perplexing,0,infinite,ecf
+the vast universe is infinite,the vast universe is infinite,0,infinite,ecf
+all comments could be removed,all comments could be removed,0,all,ecf
+all rights reserved in copyright,all rights reserved in copyright,0,all,ecf
+the sum of all parts,the sum of all parts,0,all,ecf
+the rights of all parties,the rights of all parties,0,all,ecf
+the richest nation of all time,the richest nation of all time,0,all,ecf
+the greater good of all concerned,the greater good of all concerned,0,all,ecf
+the world is always turning,the world is always turning,0,always,ecf
+the future is always uncertain,the future is always uncertain,0,always,ecf
+the cloud will always dissipate,the cloud will always dissipate,0,always,ecf
+the smoke will always disperse,the smoke will always disperse,0,always,ecf
+the day will always end,the day will always end,0,always,ecf
+the weather will always change,the weather will always change,0,always,ecf
+the sun is always burning,the sun is always burning,0,always,ecf
+the past will always remain ,the past will always remain ,0,always,ecf
+the light will always shine ,the light will always shine ,0,always,ecf
+every vote should be counted,every vote should be counted,0,every,ecf
+every citizen should be protected,every citizen should be protected,0,every,ecf
+the importance of every decision,the importance of every decision,0,every,ecf
+the fruits of every endeavour,the fruits of every endeavour,0,every,ecf
+the fundamental rights of every person,the fundamental rights of every person,0,every,ecf
+the law applies to everybody,the law applies to everybody,0,everybody,ecf
+everybody within the room felt terrified,everybody within the room felt terrified,0,everybody,ecf
+everybody in the audience was shocked,everybody in the audience was shocked,0,everybody,ecf
+everyone at the party is drunk,everyone at the party is drunk,0,everyone,ecf
+everyone in the station is worried,everyone in the station is worried,0,everyone,ecf
+everyone on the scene is panicked,everyone on the scene is panicked,0,everyone,ecf
+everyone within the group felt nervous,everyone within the group felt nervous,0,everyone,ecf
+you can not be everywhere at once,you can not be everywhere at once,0,everywhere,ecf
+the subatomic particles are everywhere,the subatomic particles are everywhere,0,everywhere,ecf
+the oxygen gas is everywhere,the oxygen gas is everywhere,0,everywhere,ecf
+an invincible society is unlikely,an invincible society is unlikely,0,invincible,ecf
+the unconditional support is appreciated,the unconditional support is appreciated,0,unconditional,ecf
+the unconditional contract was complex,the unconditional contract was complex,0,unconditional,ecf
+the interesting offer was unconditional,the interesting offer was unconditional,0,unconditional,ecf
+the definite answer was clear,the definite answer was clear,0,definite,ecf
+a true meaning is definite,a true meaning is definite,0,definite,ecf
+the final decision was definite,the final decision was definite,0,definite,ecf
+the exact coordinates were unavailable,the exact coordinates were unavailable,0,exact,ecf
+the birth certificate is exact,the birth certificate is exact,0,exact,ecf
+the provided change was exact,the provided change was exact,0,exact,ecf
+an undeniable majority was clear,an undeniable majority was clear,0,undeniable,ecf
+the devastating loss was undeniable,the devastating loss was undeniable,0,undeniable,ecf
+no one on the radio is good,few on the radio are good,1,no,ecf
+no one in the country was pleased,few people in the country were pleased,1,no,ecf
+no challenge is too hard,rarely a challenge is too hard,1,no,ecf
+no gift could impress him,rarely could a gift impress him,1,no,ecf
+nobody in the town felt comfortable,few in the town felt comfortable,1,nobody,ecf
+every child will be impacted,many children will be impacted,1,every,ecf
+everyone on the beach is lost,many on the beach are lost,1,everyone,ecf
+her absolute agony was evident,her intense agony was evident,1,absolute,ecf
+the absolute fool is ignorant,the fool is ignorant,1,absolute,ecf
+the complete idiocy was dissapointing,the idiocy was dissapointing,1,complete,ecf
+the entire policy was rubbish,the entire policy was bad,1,entire,ecf
+the entire city is jealous ,many in the city are jealous ,1,entire,ecf
+the pure heart is fulfilled,the well intended heart is fulfilled,1,pure,ecf
+the whole world is silent,too many in the world are silent,1,whole,ecf
+the whole life was terrible,the life was often terrible,1,whole,ecf
+their impossible achievements were noteworthy,their unlikely achievements were noteworthy,1,impossible,ecf
+this invariable ocean is pleasing  ,this calm ocean is pleasing,1,invariable,ecf
+the flawless skin is amazing,the high quality skin is amazing,1,flawless,ecf
+their perfect romance was young,their strong romance was young,1,perfect,ecf
+this endless moment is joyous,this lengthy moment is joyous,1,endless,ecf
+the endless racket is disconcerting,the persistent racket is disconcerting,1,endless,ecf
+the eternal night was frustrating,the long night was frustrating,1,eternal,ecf
+the infinite day was frustrating,the long day was frustrating,1,infinite,ecf
+his infinite potential was exciting,his considerable potential was exciting,1,infinite,ecf
+his invincible strength was impressive,his immense stength was impressive,1,invincible,ecf
+the definite dissapointment was unsurprising,the dissapointment was unsurprising,1,definite,ecf
+his exact thoughts were obvious,his thoughts were obvious,1,exact,ecf
+their undeniable motive was greed,their potential motive was greed,1,undeniable,ecf
+the truth is never boring,the truth is rarely boring,1,never,ecf
+the dog was never silent,the dog was rarely silent,1,never,ecf
+the pain will never stop ,the pain has lasted too long,1,never,ecf
+the man will never change,the man is unlikely to change,1,never,ecf
+the boy is never happy,the boy is rarely happy,1,never,ecf
+the organization is never honest,the organization is hardly honest,1,never,ecf
+the good times never end ,hopefully the good times last,1,never,ecf
+the world has no borders,the world has weak borders,1,no,ecf
+the teacher has no idea,the teacher is unsure,1,no,ecf
+the law has no effect,the law has little effect,1,no,ecf
+the root of all evil,a significant evil,1,all,ecf
+the mother of all sins,a significant sin,1,all,ecf
+the mother of all memes,an influential meme,1,all,ecf
+the father of all men,an influential man,1,all,ecf
+the cause of all problems,a cause of many problems,1,all,ecf
+my life is always amazing,my life is often amazing,1,always,ecf
+the girl is always sleeping,the girl is often sleeping,1,always,ecf
+the stars are always aligned,the stars are sometimes aligned,1,always,ecf
+the truth will always triumph,the truth will sometimes triumph,1,always,ecf
+the government is always spying,the government is unstrustworthy,1,always,ecf
+the future is always brighter ,the future is sometimes more positive ,1,always,ecf
+the past was always better ,the past was often better,1,always,ecf
+the future is always unpredictable ,the future is mostly unpredictable,1,always,ecf
+the moral of every story,a common moral,1,every,ecf
+the mother of every invention,an influential invention,1,every,ecf
+the answer to every query,an important answer,1,every,ecf
+the devil is everywhere  ,evil is too common,1,everywhere,ecf
+my musical mastery is absolute,my musical mastery is considerable,1,absolute,ecf
+my moral code is absolute,my moral code is strict,1,absolute,ecf
+our personal life was complete,our personal life was satisfactory,1,complete,ecf
+this inner soul is pure,the inner soul is delicate,1,pure,ecf
+the careful thoughts are pure,the careful thoughts indicate good intentions,1,pure,ecf
+their recent success seemed impossible,their recent success was unlikely,1,impossible,ecf
+her calm mood is invariable,her calm mood is stable,1,invariable,ecf
+the truth that makes no sense,the truth that is complicated,1,no,ecf
+the politician that has no supporters,the politician that has few supporters,1,no,ecf
+the man who knows no one,the man who knows few others,1,no,ecf
+the war that benefits no one,the war that benefits few,1,no,ecf
+the gun will hurt nobody,the gun will hurt few,1,nobody,ecf
+this plan is going nowhere,this plan is not working,1,nowhere,ecf
+the human race is nowhere,the human race is struggling,1,nowhere,ecf
+their objective arguments were nowhere,their objective arguments were uncommon,1,nowhere,ecf
+the beautiful family is flawless,the beautiful family is ideal,1,flawless,ecf
+the daring novel was perfect,the daring novel was perfect,1,perfect,ecf
+her best friend was perfect,her best friend was great,1,perfect,ecf
+the dishonest words are endless,the dishonest words are often,1,endless,ecf
+the last speech was eternal ,the last speech was long ,1,eternal,ecf
+his forlorn gaze was eternal,his forlorn gaze was long lasting,1,eternal,ecf
+his newfound patience is infinite,his newfound patience is long,1,infinite,ecf
+the power to end all powers,a very strong power,1,all,ecf
+the power to change all lives,a very strong power,1,all,ecf
+the perfect cocktail for every occasion,the cocktail for many occasions,1,every,ecf
+the news you crave every day,the news you crave often,1,every,ecf
+the free market protects everybody,the free market protects many,1,everybody,ecf
+the day that shook everybody,the day that shook many,1,everybody,ecf
+the grand circus entertained everyone,the grand circus entertained many,1,everyone,ecf
+the truth will help everyone,the truth may help some,1,everyone,ecf
+the book is for everyone,the book is accessible,1,everyone,ecf
+the ultimate game for everyone,the game is accessible,1,everyone,ecf
+the future belongs to everyone,the future belongs to no one,1,everyone,ecf
+the country is burning everywhere,the country is burning excessively,1,everywhere,ecf
+the drug problem is everywhere,the drug problem is pervasive,1,everywhere,ecf
+the secret police were everywhere,the secret police were everywhere,1,everywhere,ecf
+the white privilege is everywhere,the white privilege is common,1,everywhere,ecf
+the old man was invincible,the old man was strong,1,invincible,ecf
+a first love is unconditional,a first love is intense,1,unconditional,ecf
+the natural beauty is undeniable,the natural beauty is impressive,1,undeniable,ecf
+This image is smaller than the original,This image is smaller than the original,0,small,quantitative
+An apple is as thin as an onion,An apple is as thin as an onion,0,thin,quantitative
+my hair is thinner than the average,An apple is as thin as an onion,0,thin,quantitative
+An onion is as thick as a potato,An apple is as thin as an onion,0,thick,quantitative
+His beard is as thick as his mustache,An apple is as thin as an onion,0,thick,quantitative
+my blood is thicker than water,An apple is as thin as an onion,0,thick,quantitative
+that bag is as heavy as a suitcase,An apple is as thin as an onion,0,heavy,quantitative
+A man is heavier than a basketball,An apple is as thin as an onion,0,heavy,quantitative
+that shirt is heavier than mine too,An apple is as thin as an onion,0,heavy,quantitative
+My father is as tall as I am,An apple is as thin as an onion,0,tall,quantitative
+Her sister is as tall as her mother,An apple is as thin as an onion,0,tall,quantitative
+My mother is taller than me now,An apple is as thin as an onion,0,tall,quantitative
+my child is taller than you already,An apple is as thin as an onion,0,tall,quantitative
+their name is as long as the alphabet,An apple is as thin as an onion,0,long,quantitative
+their hair is as long as a finger,An apple is as thin as an onion,0,long,quantitative
+this version is longer than I expected,An apple is as thin as an onion,0,long,quantitative
+This article is longer than 1 page,An apple is as thin as an onion,0,long,quantitative
+that story is longer than you anticipated,An apple is as thin as an onion,0,long,quantitative
+that screen is larger than your head,An apple is as thin as an onion,0,large,quantitative
+Economic growth is higher than previously thought,An apple is as thin as an onion,0,high,quantitative
+your IQ is higher than most people,An apple is as thin as an onion,0,high,quantitative
+that probability is as high as 50 percent,An apple is as thin as an onion,0,high,quantitative
+Death rate is as high as 20 percent,An apple is as thin as an onion,0,high,quantitative
+her brain is as small as a quarter,she is dumb,1,small,quantitative
+his penis is as small as a mosquito,his penis is small,1,small,quantitative
+Wall Street is as big as it gets,Wall Street is very big,1,big,quantitative
+his mouth is as big as a barn,he is a gossiper,1,big,quantitative
+your heart is as big as your soul,your very kind,1,big,quantitative
+San Francisco is bigger than it seems,San Francisco is big,1,big,quantitative
+my heart is bigger than my chest,I am emotive,1,big,quantitative
+Her hair is as thin as silk,Her hair is so thin,1,thin,quantitative
+your body is thin as a needle,your body is really thin,1,thin,quantitative
+his body is thin as a mountain,his body is very thin ,1,thin,quantitative
+his skin is thinner than my hair,he is easily offended,1,thin,quantitative
+that blood is thicker than the sea,that blood is thick,1,thick,quantitative
+that bag is as heavy as a truck,that bag is very heavy,1,heavy,quantitative
+my heart is as heavy as the world,I am sad,1,heavy,quantitative
+An apple is heavier than an elephant,An apple is lighter than an elephant,1,heavy,quantitative
+her cat is as tall as a building,her cat is tall ,1,tall,quantitative
+A day is as long as a week,A day is as not as long as a week,1,long,quantitative
+An egg is as large as an elephant,An egg is smaller than an elephant,1,large,quantitative
+An atom is as large as the sun,An atom is small,1,large,quantitative
+your head is as large as a house,your head is big,1,large,quantitative
+the only way is to suffer,it is common to suffer,1,suffer|suffering,qualitative
+the entire city is screaming riot,many in the city are angry,1,riot,qualitative
+the dark place is my paradise,the dark place is my ideal ,1,paradise,qualitative
+the entire day is a nightmare,the day is frightening,1,nightmare,qualitative
+the day there is only sadness,the day there is much sadness,1,sadness,qualitative
+the global order is in chaos,the global order is unstable,1,chaos,qualitative
+the human life is only misery,the human life is sometimes misery,1,misery,qualitative
+the initial reaction is complete panic,the initial reaction is intense panic,1,panic,qualitative
+the moment there is constant sadness,the moment there is intense sadness,1,sadness,qualitative
+the social media is inherently evil,the social media can be toxic,1,evil,qualitative
+the space station is a dream,the space station is amazing,1,dream,qualitative
+the whole thing is living hell,the whole this distressing,1,hell,qualitative
+the world that is truly wicked,the world that is unfair,1,wicked,qualitative
+the apartment complex is in riot,the apartment complex is in riot,0,riot,qualitative
+the current administration is very corrupt,the current administration is very corrupt,0,corrupt,qualitative
+the religious belief was not evil,the religious belief was not evil,0,evil,qualitative
+the old man is particularly wicked,the old man is particularly wicked,0,wicked,qualitative
+the tax fraud is indeed fraud,the tax fraud is indeed fraud,0,fraud,qualitative
+the little girl is just beautiful,the little girl is just beautiful,0,beautiful,qualitative
+the elderly man is quite handsome,the elderly man is quite handsome,0,handsome,qualitative
+the apartment complex is collecting garbage,the apartment complex is collecting garbage,0,garbage,qualitative
+the old man is finally dead,the old man is finally dead,0,dead,qualitative
+the initial reaction is probably shock,the initial reaction is probably shock,0,shock,qualitative
+the old man was contemplating heaven,the old man was contemplating heaven,0,heaven,qualitative
+the family member is severely autistic,the family member is severely autistic,0,autistic,qualitative
+the apple sauce was surprisingly spicy,the apple sauce was surprisingly spicy,0,spicy,qualitative
+the enemy who is under attack,the enemy who is under attack,0,attack|attacking,qualitative
+the end result is simply graceful,the end result is simply graceful,0,graceful,qualitative
+the sexual assault is not murder,the sexual assault is not murder,0,murder,qualitative
+the initial reaction is to panic,the initial reaction is to panic,0,panic,qualitative
+the elderly man is completely deaf,the elderly man is completely deaf,0,deaf,qualitative
+the human being is experiencing pain,the human being is experiencing pain,0,pain,qualitative
+the end result is a fight,the end result is a fight,0,fight,qualitative
+the little boy is unbelievably charming,the little boy is unbelievably charming,0,charming,qualitative
+the mental illness is a disorder,the mental illness is a disorder,0,disorder,qualitative
+the little guy is getting scared,the little guy is getting scared,0,scared,qualitative
+the island really is no paradise,the island really is no paradise,0,paradise,qualitative
+the important thing is people forget,the important thing is people forget,0,forget,qualitative
+the maple syrup is not bitter,the maple syrup is not bitter,0,bitter,qualitative
+the sexual activity is not rape,the sexual activity is not rape,0,rape,qualitative
+the ancient temple is a ruin,the ancient temple is a ruin,0,ruin,qualitative
+the Western civilization is in ruin,the Western civilization is in ruin,1,ruin,qualitative
+the old house is a wreck,the old house is a wreck,0,wreck,qualitative
+the main symptom is mild headache,the main symptom is mild headache,0,headache,qualitative
+the razor blade is quite sharp,the razor blade is quite sharp,0,sharp,qualitative
+the new drug is treating insomnia,the new drug is treating insomnia,0,insomnia,qualitative
+the black woman is very attractive,the black woman is very attractive,0,attractive,qualitative
+the error message is creating confusion,the error message is creating confusion,0,confusion,qualitative
+the man who is in fear,the man who is in fear,0,fear,qualitative
+the free market is no utopia,the free market is no utopia,0,utopia,qualitative
+the web site is really great,the web site is really great,0,great,qualitative
+the user interface is not ideal,the user interface is not ideal,0,ideal,qualitative
+the data set is not impressive,the data set is not impressive,0,impressive,qualitative
+the world is bitter,many people are resentful ,1,bitter,qualitative
+the email is garbage,the email is terrible,1,garbage,qualitative
+the forest is heaven,the forest is amazing,1,heaven,qualitative
+the future is nightmare,the furture is daunting,1,nightmare,qualitative
+the idea is chaos,the idea is crazy,1,chaos,qualitative
+the media is corrupt,the media is dishonest,1,corrupt,qualitative
+the ocean is paradise,the ocean is beautiful,1,paradise,qualitative
+the party is hell,the pary is frustrating,1,hell,qualitative
+the revolution is utopia,the revolution is great,1,utopia,qualitative
+the sword is wicked,the sword can cause horrific damage,1,wicked,qualitative
+the agenda is evil,the agenda is evil,0,evil,qualitative
+the game is bad,the game is bad,0,bad,qualitative
+the algorithm is bad,the algorithm is bad,0,bad,qualitative
+the scam is fraud,the scam is fraud,0,fraud,qualitative
+the landscape is beautiful,the landscape is beautiful,0,beautiful,qualitative
+the dude is handsome,the dude is handsome,0,handsome,qualitative
+the server is dead,the server is dead,0,dead,qualitative
+the client is autistic,the client is autistic,0,autistic,qualitative
+the food is spicy,the food is spicy,0,spicy,qualitative
+the cause is suffering,the cause is suffering,0,suffer|suffering,qualitative
+the user is attacking,the user is attacking,0,attack|attacking,qualitative
+the article is graceful,the article is graceful,0,graceful,qualitative
+the response is panic,the response is panic,0,panic,qualitative
+the person is deaf,the person is deaf,0,deaf,qualitative
+the iron oxide is highly toxic,the iron oxide is highly toxic,0,toxic,qualitative
+the feeling is pain,the feeling is pain,0,pain,qualitative
+the class is fighting,the class is fighting,0,fight,qualitative
+the smile is charming,the smile is charming,0,charming,qualitative
+the pattern is disorderly,the pattern is disorderly,0,disorder,qualitative
+the dog is scared,the dog is scared,0,scared,qualitative
+the fruit is bitter,the fruit is bitter,0,bitter,qualitative
+the result is sadness,the result is sadness,0,sadness,qualitative
+the accusation is rape,the accusation is rape,0,rape,qualitative
+the promise is ruined,the promise is ruined,0,ruin,qualitative
+the vehicle is wrecked,the vehicle is wrecked,0,wreck,qualitative
+the ocean is wrecked,the ocean is wrecked,1,wreck,qualitative
+the diagnosis is headache,the diagnosis is headache,0,headache,qualitative
+the contrast is sharp,the contrast is sharp,0,sharp,qualitative
+the diagnosis is insomnia,the diagnosis is insomnia,0,insomnia,qualitative
+the material is attractive,the material is attractive,0,attractive,qualitative
+the argument is confusing,the argument is confusing,0,confusion,qualitative
+the war is misery,the war is misery,0,misery,qualitative
+the emotion is fear,the emotion is fear,0,fear,qualitative
+the sound is alarming,the sound is alarming,0,alarm,qualitative
+the playlist is great,the playlist is great,0,great,qualitative
+the outcome is ideal,the outcome is ideal,0,ideal,qualitative
+the concert is amazing,the concert is amazing,0,amazing,qualitative
+the architecture is amazing,the architecture is amazing,0,amazing,qualitative
+the game is impressive,the game is impressive,0,impressive,qualitative
+the government is inherently corrupt,a government may be corrupt,1,corrupt,qualitative
+the answer is pure confusion,the answer is rather confusing,1,confusion,qualitative
+the article is just garbage,the article is terrible,1,garbage,qualitative
+the assault is textbook rape,the assault is clearly rape,1,rape,qualitative
+the boy is too handsome,the boy is so handsome,1,handsome,qualitative
+the earth is a heaven,the earth is amazing,1,heaven,qualitative
+the emotion is pure sadness,the emotion is intense sadness,1,sadness,qualitative
+the game is dead bad,the game is really bad,1,bad,qualitative
+the garden is insanely beautiful,the garden is really beautiful,1,beautiful,qualitative
+the island is beyond paradise,the island is really beautiful,1,paradise,qualitative
+the kid is raising hell,the kid is being naughty,1,hell,qualitative
+the man is born evil,the man has been evil for a long time,1,evil,qualitative
+the rape is pure murder,the rape is a horrible event ,1,murder,qualitative
+the world is a utopia,the world is a great place,1,utopia,qualitative
+the world is complete chaos,the world is lacking stability,1,chaos,qualitative
+the world is a nightmare,the world is scary place,1,nightmare,qualitative
+the man is inciting riot,the man is inciting riot,0,riot,qualitative
+the man is considered evil,the man is considered evil,0,evil,qualitative
+the movie was so bad,the movie was so bad,0,bad,qualitative
+the child is pronounced dead,the child is pronounced dead,0,dead,qualitative
+the event is a shock,the event is a shock,0,shock,qualitative
+the child is potentially autistic,the child is potentially autistic,0,autistic,qualitative
+the pepper is very spicy,the pepper is very spicy,0,spicy,qualitative
+the moment is so graceful,the moment is so graceful,0,graceful,qualitative
+the execution is deliberate murder,the execution is deliberate murder,0,murder,qualitative
+the man is experiencing panic,the man is experiencing panic,0,panic,qualitative
+the child is declared deaf,the child is declared deaf,0,deaf,qualitative
+the mushroom is not toxic,the mushroom is not toxic,0,toxic,qualitative
+the eye is causing pain,the eye is causing pain,0,pain,qualitative
+the patient is experiencing pain,the patient is experiencing pain,0,pain,qualitative
+the match is a fight,the match is a fight,0,fight,qualitative
+the man is beyond charming,the man is beyond charming,1,charming,qualitative
+the anxiety is a disorder,the anxiety is a disorder,0,disorder,qualitative
+the child is understandably scared,the child is understandably scared,0,scared,qualitative
+the mistake is to forget,the mistake is to forget,0,forget,qualitative
+the wine is very bitter,the wine is very bitter,0,bitter,qualitative
+the empire is near ruin,the empire is near ruin,0,ruin,qualitative
+the industry is nearing ruin,the industry is nearing ruin,0,ruin,qualitative
+the city is a wreck,the city is a wreck,0,wreck,qualitative
+the problem is a headache,the problem is a headache,0,headache,qualitative
+the angle is very sharp,the angle is very sharp,0,sharp,qualitative
+the study is targeting insomnia,the study is targeting insomnia,0,insomnia,qualitative
+the dress is not attractive,the dress is not attractive,0,attractive,qualitative
+the man is inflicting misery,the man is inflicting misery,0,misery,qualitative
+the answer is not fear,the answer is not fear,0,fear,qualitative
+the warning is an alarm,the warning is an alarm,0,alarm,qualitative
+the interview is really great,the interview is really great,0,great,qualitative
+the marriage is not ideal,the marriage is not ideal,0,ideal,qualitative
+the image is just amazing,the image is just amazing,0,amazing,qualitative
+the performance is quite impressive,the performance is quite impressive,0,impressive,qualitative
+the only constant is misery,misery is too frequent,1,misery,qualitative
+the human race is deaf,people are ignorant,1,deaf,qualitative
+the election itself is fraud,some of the election could be fraud,1,fraud,qualitative
+the American Dream is murder,the American Dream is bad,1,murder,qualitative
+the American life is utopia,the American life is great,1,utopia,qualitative
+the human condition is a disorder,the human condition can be confusing,1,disorder,qualitative
+the human race is dead,the human race is struggling,1,dead,qualitative
+the man himself is heaven,the man himself is amazing,1,heaven,qualitative
+the entire movie was garbage,the movie was terrible,1,garbage,qualitative
+the political process is corrupt,the political process is not always fair,1,corrupt,qualitative
+the entire region is chaos,the region is unstable,1,chaos,qualitative
+the entire season is hell,the season was distressing,1,hell,qualitative
+the first response was riot,the first response was riot,0,riot,qualitative
+the evil creation is evil,the evil creation is evil,0,evil,qualitative
+the internet traffic is bad,the internet traffic is bad,0,bad,qualitative
+the first one was bad,the first one was bad,0,bad,qualitative
+the false advertising is fraud,the false advertising is fraud,0,fraud,qualitative
+the art exhibition is beautiful,the art exhibition is beautiful,0,beautiful,qualitative
+the black boy is handsome,the black boy is handsome,0,handsome,qualitative
+the first word is shock,the first word is shock,0,shock,qualitative
+the young driver is autistic,the young driver is autistic,0,autistic,qualitative
+the chicken soup is spicy,the chicken soup is spicy,0,spicy,qualitative
+the human race is suffering,the human race is suffering,0,suffer|suffering,qualitative
+the first priority is attack,the first priority is attack,0,attack|attacking,qualitative
+the end product is graceful,the end product is graceful,0,graceful,qualitative
+the oil residue is toxic,the oil residue is toxic,0,toxic,qualitative
+the old photograph is charming,the old photograph is charming,0,charming,qualitative
+the bad dream was a nightmare,the bad dream was a nightmare,0,nightmare,qualitative
+the old doctor is scared,the old doctor is scared,0,scared,qualitative
+the old friend was bitter,the old friend was bitter,0,bitter,qualitative
+the last word was sadness,the last word was sadness,0,sadness,qualitative
+the entire planet is wrecked,the entire planet is wrecked,0,wreck,qualitative
+the main problem is headache,the main problem is headache,0,headache,qualitative
+the arrow tip is sharp,the arrow tip is sharp,0,sharp,qualitative
+the other reason is insomnia,the other reason is insomnia,0,insomnia,qualitative
+the new design is attractive,the new design is attractive,0,attractive,qualitative
+the last sentence is confusing,the last sentence is confusing,0,confusion,qualitative
+the big problem is fear,the big problem is fear,0,fear,qualitative
+the first signal is alarm,the first signal is alarm,0,alarm,qualitative
+the new album is great,the new album is great,0,great,qualitative
+the economic growth was ideal,the economic growth was ideal,0,ideal,qualitative
+the art installation is amazing,the art installation is amazing,0,amazing,qualitative
+the overall display is impressive,the overall display is impressive,0,impressive,qualitative
+the comment is real spicy,the comment is controversial,1,spicy,qualitative
+the english teacher is pain,the english teacher is frustrating,1,pain,qualitative
+the experience is like a dream,the experience is amazing,1,dream,qualitative
+the future is undeniably great,the future is positive,1,great,qualitative
+the jewelery is beyond impressive,the jelewery is impressive,1,impressive,qualitative
+the latest design is infinitely graceful,the latest design is very graceful,1,graceful,qualitative
+the mans breath is toxic,the mans breath is bad,1,toxic,qualitative
+the marriage is a fight,the marriage is unstable,1,fight,qualitative
+the old car is a headache,the old car is a headache,1,headache,qualitative
+the place is a dream,the place is amazing,1,dream,qualitative
+the speech is sharp,the speech is good ,1,sharp,qualitative
+the surprise attack is the worst,the surpise attack is bad,1,attack|attacking,qualitative
+the team is constantly amazing,the team is consistent,1,amazing,qualitative
+the timing was exceedingly ideal,the timing was good,1,ideal,qualitative
+this show is autistic ,this show is different,1,autistic,qualitative
+the bad dream is over,the bad dream is over,0,dream,qualitative
